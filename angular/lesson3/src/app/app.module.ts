@@ -24,6 +24,9 @@ import { PostComponent } from './components/post/post.component';
     RouterModule.forRoot([
       {
         path: 'users', component: AllUsersComponent
+      },
+      {
+        path: 'posts', component: AllPostsComponent
       }
     ])
   ],
