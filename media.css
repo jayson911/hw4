@@ -1,0 +1,5 @@
+@media screen and (min-width: 0) and (max-width: 1158px){
+    .inner-conteiner{
+        flex-direction: column;
+    }
+}
