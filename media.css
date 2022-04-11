@@ -2,4 +2,10 @@
     .container{
         flex-direction: column;
     }
+    .inner-container{
+        width: 100%;
+    }
+    .h{
+        width: 100%;
+    }
 }
