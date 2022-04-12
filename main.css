@@ -1,5 +1,6 @@
 .wrap{
     height: 800px;
+    background-color: gray;
 }
 .a{
     width: 100%;
@@ -14,8 +15,8 @@
 .inner-container{
     width: 75%;
     height: 500px;
-    display: flex;
-    flex-direction: column;
+    /*display: flex;*/
+    /*flex-direction: column;*/
 
 }
 
@@ -25,15 +26,13 @@
 }
 .b, .c, .d{
     width: 33.3%;
-    height: 250px;
+    height: 100%;
     background-color: chocolate;
-    margin-left: 5px;
 }
 .e, .f, .g{
     width: 33.3%;
-    height: 250px;
+    height: 100%;
     background-color: chartreuse;
-    margin-left: 5px;
 }
 .h{
     width: 25%;
