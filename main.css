@@ -28,11 +28,15 @@
     width: 33.3%;
     height: 100%;
     background-color: chocolate;
+    border-style: solid;
+    background-color: gray;
 }
 .e, .f, .g{
     width: 33.3%;
     height: 100%;
     background-color: chartreuse;
+    border-style: solid;
+    background-color: gray;
 }
 .h{
     width: 25%;
