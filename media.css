@@ -1,11 +1,12 @@
 @media screen and (min-width: 0) and (max-width: 1368px){
+    .a{
+        height: 100px;
+    }
     .container{
         flex-direction: column;
-        height: 600px;
+        height: 700px;
     }
-    .a{
-        height: 200px;
-    }
+
     .inner-container{
         width: 100%;
     }

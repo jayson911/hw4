@@ -14,8 +14,8 @@
 .inner-container{
     width: 75%;
     height: 500px;
-    /*display: flex;*/
-    /*flex-direction: column;*/
+    display: flex;
+    flex-direction: column;
 
 }
 
